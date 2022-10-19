@@ -1,5 +1,6 @@
 import streamlit
 import pandas as pd
+import snowfalke.connector
 streamlit.title('New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
